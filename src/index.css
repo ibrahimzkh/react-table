@@ -1,0 +1,40 @@
+.header{
+  display: flex;
+  justify-content: space-between;
+}
+.img{
+  width: 80px;
+  height: 60px;
+}
+
+.image{
+  width: 200px;
+  
+  border: 2px solid black;
+}
+.general{
+  display: flex;
+  justify-content: space-between;
+  border: 2px solid black;
+  width: 600px;
+}
+.id{
+  border: 2px solid black;
+}
+.menu{
+  display: flex;
+  justify-content:space-around;
+  width: 620px;
+}
+.name{
+  border: 2px solid black;
+  width: 200px;
+}
+.price{
+  border: 2px solid black;
+  width: 200px;
+}
+.left{
+  border: 2px solid black;
+  width: 200px;
+}
